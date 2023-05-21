@@ -1,0 +1,40 @@
+OrderID: 13
+Ordertime: 17-1-2017 11:40:35
+Costs: 3,00
+Tablenumber: 1
+
+OrderID: 14
+Ordertime: 17-1-2017 11:41:45
+Costs: 2,00
+Tablenumber: 1
+
+OrderID: 15
+Ordertime: 17-1-2017 11:43:42
+Costs: 2,00
+Tablenumber: 1
+
+OrderID: 16
+Ordertime: 17-1-2017 11:44:11
+Costs: 4,00
+Tablenumber: 1
+
+OrderID: 17
+Ordertime: 17-1-2017 11:46:27
+Costs: 22,00
+Tablenumber: 1
+
+OrderID: 18
+Ordertime: 17-1-2017 11:50:20
+Costs: 127,00
+Tablenumber: 1
+
+OrderID: 19
+Ordertime: 17-1-2017 14:01:00
+Costs: 7,00
+Tablenumber: 1
+
+OrderID: 20
+Ordertime: 17-1-2017 14:08:34
+Costs: 2,00
+Tablenumber: 1
+
